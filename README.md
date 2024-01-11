@@ -19,5 +19,12 @@ in cognitive learning and co-learning.
 For further reading about this project and related publication please visit:
 [Toward enriched Cognitive Learning with XAI](https://arxiv.org/abs/2312.12290).
 
+#### Our other related works:
+- [FCE: Feedback Based Counterfactual Explanations for Explainable AI](https://ieeexplore.ieee.org/document/9819899)
+- [Investigating Human-Centered Perspectives in Explainable Artificial Intelligence](https://ceur-ws.org/Vol-3518/paper4.pdf)
+- [Towards Human Cognition Level-based Experiment Design for Counterfactual Explanations](https://ieeexplore.ieee.org/abstract/document/9994203)
+- [How to Build Self-Explaining Fuzzy Systems: From Interpretability to Explainability [AI-eXplained]](https://ieeexplore.ieee.org/document/10384509/references#references)
+
+
 
 
