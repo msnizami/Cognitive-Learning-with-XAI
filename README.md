@@ -44,19 +44,23 @@ The related code for reproducing the experiments will be disclosed soon as the p
 
 If you use CL-XAI in your research, please cite it as:
 
-``
-@article{Suffian2023,
+
+`@article{Suffian2023,
   title={Toward Enriched Cognitive Learning with XAI},
   author={Muhammad Suffian and Ulrike Kuhl and Jose M. Alonso-Moral and Alessandro Bogliolo},
   year={2023},
   eprint={2312.12290},
   archivePrefix={arXiv},
   primaryClass={cs.AI}
-}
-``
+}`
 
-### License
+# License
 
-This project is licensed under the [MIT License](LICENSE).
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
+[![CC BY 4.0][cc-by-image]][cc-by]
 
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
