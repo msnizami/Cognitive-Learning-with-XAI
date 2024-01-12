@@ -44,17 +44,18 @@ The related code for reproducing the experiments will be disclosed soon as the p
 
 If you use CL-XAI in your research, please cite it as:
 
-
-`@article{Suffian2023,
+```python
+@article{Suffian2023,
   title={Toward Enriched Cognitive Learning with XAI},
   author={Muhammad Suffian and Ulrike Kuhl and Jose M. Alonso-Moral and Alessandro Bogliolo},
   year={2023},
   eprint={2312.12290},
   archivePrefix={arXiv},
   primaryClass={cs.AI}
-}`
+}
+```
 
-# License
+### License
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
