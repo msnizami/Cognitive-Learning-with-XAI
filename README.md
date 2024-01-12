@@ -23,8 +23,6 @@ To experience CL-XAI, simply [click here](http://85.235.144.146:8888/index.html)
 
 ### Further Reading
 
-For a more in-depth exploration of this project and related publications, please visit our publication: [Toward Enriched Cognitive Learning with XAI](#).
-
 We appreciate your interest in CL-XAI and invite you to explore, contribute, and provide feedback. Together, let's advance the frontiers of cognitive learning with Explainable AI!
 
 For further reading about this project and related publication please visit:
@@ -46,7 +44,7 @@ The related code for reproducing the experiments will be disclosed soon as the p
 
 If you use CL-XAI in your research, please cite it as:
 
-```bibtex
+``
 @article{Suffian2023,
   title={Toward Enriched Cognitive Learning with XAI},
   author={Muhammad Suffian and Ulrike Kuhl and Jose M. Alonso-Moral and Alessandro Bogliolo},
@@ -55,7 +53,7 @@ If you use CL-XAI in your research, please cite it as:
   archivePrefix={arXiv},
   primaryClass={cs.AI}
 }
-'''
+``
 
 ### License
 
