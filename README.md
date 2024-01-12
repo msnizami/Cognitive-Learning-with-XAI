@@ -1,20 +1,31 @@
-# Cognitive-Learning-with-XAI
-## This repository contains solutions to enhance the cognitive learning of learners.
+# Toward Enhanced Cognitive Learning with Explainable AI (CL-XAI)
 
-### An interactive game including domain-agnostic combinatorial task is deployed on the web server at this link:
-http://85.235.144.146:8888/index.html
+Welcome to the GitHub repository for CL-XAI, an interactive game designed to enhance cognitive learning through domain-agnostic combinatorial tasks. The game is deployed on our web server, and you can access it [here](http://85.235.144.146:8888/index.html).
 
-As computational systems supported by artificial intelligence (AI) techniques continue to play an increasingly pivotal role
-in making high-stakes recommendations and decisions across various domains, the demand for explainable AI (XAI) has grown 
-significantly, extending its impact into cognitive learning research. Providing explanations for novel concepts is recognised 
-as a fundamental aid in the learning process, particularly when addressing challenges stemming from knowledge deficiencies and
-skill application. Addressing these difficulties involves timely explanations and guidance throughout the learning process, 
-prompting the interest of AI experts in developing explainer models. In this paper, we introduce an intelligent system (CL-XAI)
-for Cognitive Learning which is supported by XAI, focusing on two key research objectives: exploring how human learners comprehend
-the internal mechanisms of AI models using XAI tools and evaluating the effectiveness of such tools through human feedback. 
-The use of CL-XAI is illustrated with a game-inspired virtual use case where learners tackle combinatorial problems to enhance
-problem-solving skills and deepen their understanding of complex concepts, highlighting the potential for transformative advances
-in cognitive learning and co-learning.
+## Overview
+
+As artificial intelligence (AI) systems become increasingly prevalent in making critical decisions, there is a growing demand for Explainable AI (XAI). CL-XAI addresses this demand by providing insights into the internal mechanisms of AI models, fostering cognitive learning and understanding of complex concepts.
+
+## Key Objectives
+
+Our research focuses on two main objectives:
+
+1. **Understanding Human Comprehension:** Explore how human learners comprehend AI models using XAI tools.
+2. **Evaluating Tool Effectiveness:** Evaluate the effectiveness of XAI tools through valuable human feedback.
+
+## CL-XAI in Action
+
+CL-XAI is demonstrated through a game-inspired virtual use case. In this scenario, learners engage in combinatorial problem-solving tasks. The goal is to enhance problem-solving skills and deepen understanding of complex concepts. This innovative approach showcases the transformative potential of CL-XAI in the field of cognitive learning and co-learning.
+
+## Getting Started
+
+To experience CL-XAI, simply [click here](http://85.235.144.146:8888/index.html) to access the interactive game.
+
+## Further Reading
+
+For a more in-depth exploration of this project and related publications, please visit our publication: [Toward Enriched Cognitive Learning with XAI](#).
+
+We appreciate your interest in CL-XAI and invite you to explore, contribute, and provide feedback. Together, let's advance the frontiers of cognitive learning with Explainable AI!
 
 For further reading about this project and related publication please visit:
 [Toward enriched Cognitive Learning with XAI](https://arxiv.org/abs/2312.12290).
@@ -28,6 +39,25 @@ For further reading about this project and related publication please visit:
   
 - [How to Build Self-Explaining Fuzzy Systems: From Interpretability to Explainability [AI-eXplained]](https://ieeexplore.ieee.org/document/10384509/references#references)
 
+## Announcement
+The related code for reproducing the experiments will be disclosed soon as the paper is in publishing phase.
 
+## Cite As
+
+If you use CL-XAI in your research, please cite it as:
+
+```bibtex
+@article{Suffian2023,
+  title={Toward Enriched Cognitive Learning with XAI},
+  author={Muhammad Suffian and Ulrike Kuhl and Jose M. Alonso-Moral and Alessandro Bogliolo},
+  year={2023},
+  eprint={2312.12290},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI}
+}
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
