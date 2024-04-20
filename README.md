@@ -1,3 +1,5 @@
+#### This Project was Developed as part of the Doctoral Dissertation in the University of Urbino, Italy.
+
 ## Toward Enhanced Cognitive Learning with Explainable AI (CL-XAI)
 
 Welcome to the GitHub repository for CL-XAI, an interactive game designed to enhance cognitive learning through domain-agnostic combinatorial tasks. The game is deployed on our web server, and you can access it [here](http://85.235.144.146:8888/index.html).
